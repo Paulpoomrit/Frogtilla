@@ -1,0 +1,14 @@
+{
+  "WorkspaceID": "dv.ws.b33f9d11-4974-418e-af93-dff3aed1b90e",
+  "RepoID": "dv.repo.94183411-f65e-45ec-8b5c-8506e48347a6",
+  "Path": "/Users/paulpoomrit/2_ApricotCocktail/Frogtilla",
+  "AccountID": "Google_106567155182863721319",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.1",
+  "Paused": false,
+  "ShouldDownload": true,
+  "RepoName": "Frogtilla",
+  "ReadOnly": false,
+  "DigestMethod": "sha1"
+}
